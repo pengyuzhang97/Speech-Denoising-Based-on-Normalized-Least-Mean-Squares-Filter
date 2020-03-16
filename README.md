@@ -3,4 +3,4 @@ Implemented NLMS filter on noise cancellation
 
 project1.mat is the given two speech signal.
 
-m is the number of filter order. The performance surface plot is only valid when m = 2.
+'m' in NLMS.m is the number of filter order. The performance surface plot is only valid when m = 2.
